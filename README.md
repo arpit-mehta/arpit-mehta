@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @arpit-mehta
-- 👀 I’m interested in Cloud Computing and DevOps
-- 🌱 I’m currently learning Web development and DSA
+- 👀 I’m interested in Competitive Programming.
+- 🌱 I’m currently working as a Program Analyst Trainee in Cognizant.
 - 📫 How to reach me ...
-www.linkedin.com/in/arpitmehta05
-iarpit.mehta@gmail.com
+-www.linkedin.com/in/arpitmehta05
+-iarpit.mehta@gmail.com
 
 
 <!---
