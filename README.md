@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arpit-mehta
-- 👀 I’m interested in Competitive Programming.
+- 👀 I’m interested in ios Development.
 - 🌱 I’m currently working as a Program Analyst Trainee in Cognizant.
 - 📫 How to reach me ...
 www.linkedin.com/in/arpitmehta05
